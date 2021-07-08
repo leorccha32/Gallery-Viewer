@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qss/CommonControl.qss</file>
+        <file>res/back.png</file>
+        <file>res/ftp.png</file>
+        <file>res/image.png</file>
+        <file>res/reset.png</file>
+        <file>res/left.png</file>
+        <file>res/right.png</file>
+        <file>res/icon2.png</file>
+    </qresource>
+</RCC>
